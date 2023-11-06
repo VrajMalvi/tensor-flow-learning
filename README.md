@@ -10,12 +10,12 @@ Stay tuned for more exciting updates and innovative projects in the world of mac
 
 Dataset Links:
 
-Pizza_steak[https://storage.googleapis.com/ztm_tf_course/food_vision/pizza_steak.zip]
+[Pizza_steak](https://storage.googleapis.com/ztm_tf_course/food_vision/pizza_steak.zip)
 
-10_food_classes_all_data[https://storage.googleapis.com/ztm_tf_course/food_vision/10_food_classes_all_data.zip]
+[10_food_classes_all_data](https://storage.googleapis.com/ztm_tf_course/food_vision/10_food_classes_all_data.zip)
 
-10_food_classes_1_percent[https://storage.googleapis.com/ztm_tf_course/food_vision/10_food_classes_1_percent.zip]
+[10_food_classes_1_percent](https://storage.googleapis.com/ztm_tf_course/food_vision/10_food_classes_1_percent.zip)
 
-10_food_classes_10_percent[https://storage.googleapis.com/ztm_tf_course/food_vision/10_food_classes_10_percent.zip]
+[10_food_classes_10_percent](https://storage.googleapis.com/ztm_tf_course/food_vision/10_food_classes_10_percent.zip)
 
-101_food_classes_10_percent[https://storage.googleapis.com/ztm_tf_course/food_vision/101_food_classes_10_percent.zip]
+[101_food_classes_10_percent](https://storage.googleapis.com/ztm_tf_course/food_vision/101_food_classes_10_percent.zip)
